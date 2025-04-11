@@ -45,3 +45,7 @@
 
 
 <a href="[https://github.com/Marinabsv/github-readme-stats)"><img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinabsv&theme=onedark&bg_color=0d1117&" /></a>
+
+### 📫 Связаться со мной
+
+- Email: i@marina-bsv.ru
