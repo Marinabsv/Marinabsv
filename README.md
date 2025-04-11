@@ -1,7 +1,7 @@
 <h1 align="center">Всем привет, меня зовут  <a href="#0" target="_blank">​Марина​</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&letterSpacing=&duration=4000&pause=1000&color=25852A&center=true&vCenter=true&multiline=true&width=1000&lines=FRONT-END+DEVELOPER." alt="Typing SVG" /> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&letterSpacing=&duration=4000&pause=1000&color=a159a3&center=true&vCenter=true&multiline=true&width=1000&lines=FRONT-END+DEVELOPER." alt="Typing SVG" /> 
 
 🦾Фронтенд-разработчица с опытом создания адаптивных и производительных интерфейсов на React, TypeScript и JavaScript. 
 
